@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+<html>
+  <head>
+    <link href='https://fonts.googleapis.com/css?family=Oswald:400,700' rel='stylesheet' type='text/css'>
+    <link href="/style.css" type="text/css" rel="stylesheet" />
+  </head>
+  <body>
 
-You can use the [editor on GitHub](https://github.com/chalebpommells/codingthefuture101.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+    <div class="main">
+      <div class="container">
+        <h1>TFONL Luv's Coding</h1>
+        <p>Presently, there is no funding available from local high schools to support coding clubs. In Miami Gardens, computer classes are limited to only one AP computer science class offered for students. We need more opportunities for kids to learn computer programming while in high school to open up education and their exposure to potential career opportunities in their future. This club will use the open source Code Club World curriculum.</p>
+        <a class="btn" href="#">Donate Now</a>
+      </div>
+    </div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <div class="supporting">
+      <div class="container">
+        <div class="col">
+          <h2>TFONL Luv's Coding</h2>
+          <p>To educate, inspire, and equip kids with the skills, resources and confidence to pursue
+opportunities in computing fields.</p>
+        </div>
+        <div class="col">
+          <h2>What Is The Cost of The Program</h2>
+          <p>The annual cost of the program for the 2017-2018 school year is anticipated to cost $2000, which covers the licensing costs of the progamme software. The two instructors have graciously donated their time at no cost. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+</p>
+        </div>
+        <div class="col">
+          <h2>Get In Touch</h2>
+          <p>You can reach us at 954-903-8379 or email us at tfonlcoding@gmail.com
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </div>
 
-```markdown
-Syntax highlighted code block
+    <div class="feature">
+      <div class="container">
+        <h2>Connections. Growth. Simplicity.
+      </div>
+    </div>
 
-# Header 1
-## Header 2
-### Header 3
+    <div class="supporting">
+      <div class="container">
+        <h2>Go Enterprise
+        <p>Receive recommendations based on your scores.
+        <a class="btn" href="#">Learn More</a>
+      </div>
+    </div>
 
-- Bulleted
-- List
+    <div class="footer">
+      <div class="container">
+        <h2>Stop scrolling. Get Connected.
+        <a class="btn" href="#">Start Now</a>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chalebpommells/codingthefuture101.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+      </div>
+    </div>
