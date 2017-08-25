@@ -38,8 +38,7 @@ opportunities in computing fields.</p>
     <div class="feature">
       <div class="container">
         <h2>Connections. Growth. Simplicity.
-      </div>
-    </div>
+      
 
     <div class="supporting">
       <div class="container">
