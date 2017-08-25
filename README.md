@@ -30,7 +30,7 @@ opportunities in computing fields.</p>
         <div class="col">
           <h2>Get In Touch</h2>
           <p>You can reach us at (954)-637-3057 or email us at tfonlcoding@gmail.com
-        </div>
+        
         <div class="clearfix"></div>
       </div>
     </div>
