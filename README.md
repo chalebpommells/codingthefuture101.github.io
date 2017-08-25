@@ -46,8 +46,7 @@ opportunities in computing fields.</p>
         <h2>Go Enterprise
         <p>Receive recommendations based on your scores.
         <a class="btn" href="#">Learn More</a>
-      </div>
-    </div>
+      
 
     <div class="footer">
       <div class="container">
@@ -55,5 +54,4 @@ opportunities in computing fields.</p>
         <a class="btn" href="#">Start Now</a>
 
 
-      </div>
-    </div>
+      
